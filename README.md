@@ -8,5 +8,7 @@
 - [numphy](https://pypi.org/project/wordcloud/): word cloud generator
 - [pandas](https://pandas.pydata.org/): data processing
 - [nltk](https://www.nltk.org/): natural language processing   
+- [Gensim](https://pypi.org/project/gensim/): LDA 
+
 
 
